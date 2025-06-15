@@ -10,7 +10,7 @@ These packages aim to simplify common UI/UX patterns and add aesthetic enhanceme
 | Package     | Description                                              | Pub.dev | Example |
 |-------------|----------------------------------------------------------|---------|---------|
 | [`glassify`](./glassify) | Beautiful glassmorphism container for modern UIs       | [![pub](https://img.shields.io/pub/v/glassify.svg)](https://pub.dev/packages/glassify) | [→](./glassify/example) |
-| _(add more here)_ | _(short one-liner summary of the next package)_ | | |
+
 
 ---
 
