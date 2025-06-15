@@ -1,12 +1,12 @@
-# 🧊 Glassy
+# 🧊 Glassify
 
-**Glassy** is a lightweight and flexible Flutter widget that brings the smooth **glassmorphism** effect to your app with just a few lines of code.
+**Glassify** is a lightweight and flexible Flutter widget that brings the smooth **glassmorphism** effect to your app with just a few lines of code.
 
 If you're building a modern UI and want that frosted glass aesthetic — blur, translucency, and subtle shadows — this widget makes it dead simple.
 
 ---
 
-## ✨ Why use Glassy?
+## ✨ Why use Glassify?
 
 - ⚡ Easy to integrate — drop it in and you're done
 - 🎨 Fully customizable — adjust blur, border radius, shadows, colors, and more
@@ -24,7 +24,6 @@ If you're building a modern UI and want that frosted glass aesthetic — blur, t
 |--------------------------------------|--------------------------------------|
 | ![light](https://user-images.githubusercontent.com/placeholder-light.png) | ![dark](https://user-images.githubusercontent.com/placeholder-dark.png) |
 
-*(Add your screenshots or gifs here to showcase the widget in action)*
 
 ---
 
@@ -34,7 +33,7 @@ Install the package in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  glassy: ^1.0.0
+  glassify: ^0.0.2
 ```
 
 ## 📄 License
