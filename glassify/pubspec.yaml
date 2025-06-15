@@ -1,8 +1,10 @@
-name: glassy
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
-
+name: glassify
+description: "Flutter package for glassmorphism effect."
+version: 0.0.2
+homepage: https://github.com/Alto-b/packages/tree/main/glassy
+repository: https://github.com/Alto-b/packages
+issue_tracker: https://github.com/Alto-b/packages/issues
+license: MIT
 environment:
   sdk: ^3.6.1
   flutter: ">=1.17.0"

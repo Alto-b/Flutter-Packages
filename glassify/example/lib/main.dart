@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glassy/glassy.dart';
+import 'package:glassify/glassify.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,9 +17,9 @@ class MyApp extends StatelessWidget {
       home: const Scaffold(
         backgroundColor: Colors.blueGrey,
         body: Center(
-          child: GlassContainer(
+          child: Glassify(
             child: Text(
-              'Glassmorphism ✨',
+              'This is glassy! ✨',
               style: TextStyle(color: Colors.white, fontSize: 24),
             ),
           ),
