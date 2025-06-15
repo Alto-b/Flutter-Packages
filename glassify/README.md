@@ -35,8 +35,18 @@ Install the package in your `pubspec.yaml`:
 ```yaml
 dependencies:
   glassy: ^1.0.0
-
+```
 
 ## 📄 License
 
 This package is licensed under the [MIT License](LICENSE).
+
+## 🛠 Contributing
+Spotted a bug? Want to request a feature? Feel free to open an issue or pull request.
+This package is actively maintained — suggestions and contributions are welcome!
+
+GitHub: github.com/Alto-b/packages
+
+## 🧠 About the Author
+Built with care by [@Alto-b](https://github.com/Alto-b) — a developer who loves clean, minimal, and aesthetic UIs.
+If you use this package, a ⭐️ on the repo would be awesome!
