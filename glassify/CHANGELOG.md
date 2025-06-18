@@ -1,3 +1,17 @@
+## [0.0.4] - 2025-06-15
+### Added
+- New `opacity` parameter to control background color transparency separately from blur.
+- `blurSigma` parameter added to let users control the Gaussian blur intensity explicitly.
+
+### Changed
+- The original `blur` parameter has been renamed to `opacity` for clarity.
+- Improved internal logic for color blending and theme adaptation.
+- Updated widget doc comments for better API clarity.
+
+### Example
+- Added enhanced example showcasing both blur and background opacity usage.
+
+
 ## [0.0.3] - 2025-06-15
 ### Changed
 - Renamed package from `glassy` to `glassify`
