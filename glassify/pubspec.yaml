@@ -3,7 +3,7 @@ description: >
   A lightweight Flutter package for creating customizable glassmorphism effects with blur, 
   transparency, and adaptive themes. Ideal for modern UI elements like frosted cards, overlays, and panels.
 
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Alto-b/packages
 repository: https://github.com/Alto-b/Flutter-Packages/tree/main/glassify
 issue_tracker: https://github.com/Alto-b/packages/issues
