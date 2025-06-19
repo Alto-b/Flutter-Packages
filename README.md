@@ -1,7 +1,7 @@
 # 📦 Flutter Packages by @Alto-b
 
-A curated collection of modern, clean, and reusable Flutter packages built with ❤️ by [@Alto-b](https://github.com/Alto-b).  
-These packages aim to simplify common UI/UX patterns and add aesthetic enhancements to your Flutter apps.
+A curated collection of modern, clean, and reusable Flutter packages by [@Alto-b](https://github.com/Alto-b).
+These packages are designed to streamline common UI/UX patterns and enhance the visual appeal of your Flutter applications.
 
 ---
 
