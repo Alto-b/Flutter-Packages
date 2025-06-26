@@ -33,7 +33,7 @@ Install the package in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  glassify: ^0.0.2
+  glassify: ^0.0.4
 ```
 
 ## 📄 License
