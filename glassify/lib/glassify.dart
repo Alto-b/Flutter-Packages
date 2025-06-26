@@ -50,21 +50,23 @@ class Glassify extends StatelessWidget {
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
 
+    final double clampedOpacity = opacity.clamp(0.0, 1.0);
+    final int alphaValue = (clampedOpacity * 255).round();
+
     final Color baseColor = color ?? Colors.white;
-    final Color backgroundWithOpacity =
-        baseColor.withOpacity(opacity.clamp(0.0, 1.0));
+    final Color backgroundWithOpacity = baseColor.withAlpha(alphaValue);
 
     final Color defaultBorder = borderColor ??
         (isDark
-            ? Colors.white.withOpacity(0.08)
-            : Colors.white.withOpacity(opacity.clamp(0.0, 1.0)));
+            ? Colors.white.withAlpha((0.08 * 255).round())
+            : Colors.white.withAlpha(alphaValue));
 
     final List<BoxShadow> defaultShadow = boxShadow ??
         [
           BoxShadow(
             color: isDark
-                ? Colors.black.withOpacity(0.3)
-                : Colors.white.withOpacity(0.05),
+                ? Colors.black.withAlpha((0.3 * 255).round())
+                : Colors.white.withAlpha((0.05 * 255).round()),
             blurRadius: 16,
             offset: const Offset(0, 4),
           ),
