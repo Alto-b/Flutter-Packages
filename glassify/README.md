@@ -20,12 +20,9 @@ If you're building a modern UI and want that frosted glass aesthetic — blur, t
 
 ## 💡 Preview
 
-| Light Mode                            | Dark Mode                            |
-|--------------------------------------|--------------------------------------|
-| ![light]![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-27 at 00 28 06](https://github.com/user-attachments/assets/7fc25370-ae7a-4952-954c-b8b753ae0324)
-() | ![dark](![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-27 at 00 44 34](https://github.com/user-attachments/assets/5962a5ec-a5bf-4307-b862-555e52deeae8)
-) |
-
+| Light Mode | Dark Mode |
+|------------|-----------|
+| <img src="https://github.com/user-attachments/assets/7fc25370-ae7a-4952-954c-b8b753ae0324" width="300" alt="Glassify Light Preview"/> | <img src="https://github.com/user-attachments/assets/5962a5ec-a5bf-4307-b862-555e52deeae8" width="300" alt="Glassify Dark Preview"/> |
 
 ---
 
