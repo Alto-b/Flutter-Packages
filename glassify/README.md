@@ -32,7 +32,7 @@ Install the package in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  glassify: ^0.0.4
+  glassify: ^0.0.6
 ```
 
 ## 📄 License
@@ -46,5 +46,5 @@ This package is actively maintained — suggestions and contributions are welcom
 GitHub: github.com/Alto-b/packages
 
 ## 🧠 About the Author
-Built with care by [@Alto-b](https://github.com/Alto-b) — a developer who loves clean, minimal, and aesthetic UIs.
+Built by [@Alto-b](https://github.com/Alto-b) — a developer who loves clean, minimal, and aesthetic UIs.
 If you use this package, a ⭐️ on the repo would be awesome!
